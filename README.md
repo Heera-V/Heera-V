@@ -13,6 +13,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📜YARA-L Rules for detection
 
+- **[YARA-L Detection Rules](https://github.com/Heera-V/yara-l-detection-rules)**
+
 <hr/>
 
 ## 🤳 Connect With Me
