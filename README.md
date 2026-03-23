@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[YARA-L Detection Rules](https://github.com/Heera-V/yara-l-detection-rules)**
 
 ## 🧪 Exploit Detection Labs
-- Coming soon CVE2024-21413
+- [Coming soon CVE2024-21413](https://github.com/Heera-V/CVE2024-21413)
 
 <hr/>
 
